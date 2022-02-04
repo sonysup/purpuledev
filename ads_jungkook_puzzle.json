@@ -4,10 +4,10 @@
   ],
   "pub_id": "",
   "app_id": "ca-app-pub-6556970222421567~5646646959",
-  "admob_banner_id": "ca-app-pub-6556970222421567/8061608951",
-  "admob_interstitial_id": "ca-app-pub-6556970222421567/5435445615",
-  "admob_native_id": "ca-app-pub-6556970222421567/6556955590",
-  "admob_rewarded_id": "ca-app-pub-6556970222421567/8799975559",
+  "admob_banner_id": "ca-app-pub-6556970222421567/4138933281",
+  "admob_interstitial_id": "ca-app-pub-6556970222421567/2825851613",
+  "admob_native_id": "ca-app-pub-6556970222421567/1261488501",
+  "admob_rewarded_id": "ca-app-pub-6556970222421567/4246744499",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
   "admob_hpk_1": "insurance",
@@ -26,6 +26,7 @@
   "interstitial_inverval": 5,
   "primary_ads": "ADMOB",
   "list_ads": [
-      "ADMOB"
+      "ADMOB",
+    "UNITY"
     ]
 }
