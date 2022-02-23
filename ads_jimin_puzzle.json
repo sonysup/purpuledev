@@ -19,13 +19,14 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
   "startapp_app_id": "",
-  "unity_id": "4596209",
+  "unity_id": "4627555",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded": "Rewarded_Android",
   "interstitial_inverval": 5,
   "primary_ads": "ADMOB",
   "list_ads": [
-      "ADMOB"
+      "ADMOB",
+      "UNITY"
     ]
 }
